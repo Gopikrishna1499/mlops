@@ -4,4 +4,4 @@ pandas
 yfinance
 sklearn
 numpy
-pandass
+panda
